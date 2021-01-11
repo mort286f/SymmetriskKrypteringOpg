@@ -1,0 +1,7 @@
+C:\Users\PC Morten\source\repos\SymmetriskKrypteringOpg\SymmetriskKrypteringOpg\bin\Debug\SymmetriskKrypteringOpg.exe.config
+C:\Users\PC Morten\source\repos\SymmetriskKrypteringOpg\SymmetriskKrypteringOpg\bin\Debug\SymmetriskKrypteringOpg.exe
+C:\Users\PC Morten\source\repos\SymmetriskKrypteringOpg\SymmetriskKrypteringOpg\bin\Debug\SymmetriskKrypteringOpg.pdb
+C:\Users\PC Morten\source\repos\SymmetriskKrypteringOpg\SymmetriskKrypteringOpg\obj\Debug\SymmetriskKrypteringOpg.csprojAssemblyReference.cache
+C:\Users\PC Morten\source\repos\SymmetriskKrypteringOpg\SymmetriskKrypteringOpg\obj\Debug\SymmetriskKrypteringOpg.csproj.CoreCompileInputs.cache
+C:\Users\PC Morten\source\repos\SymmetriskKrypteringOpg\SymmetriskKrypteringOpg\obj\Debug\SymmetriskKrypteringOpg.exe
+C:\Users\PC Morten\source\repos\SymmetriskKrypteringOpg\SymmetriskKrypteringOpg\obj\Debug\SymmetriskKrypteringOpg.pdb
